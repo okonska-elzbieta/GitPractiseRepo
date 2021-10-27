@@ -16,3 +16,27 @@ Changes not staged for commit:
 	modified:   newFile
 
 no changes added to commit (use "git add" and/or "git commit -a")
+commit 8853856075a2c3b333f6cb2b09495f2b71359826
+Author: Ela <okonska.elzbieta@gmail.com>
+Date:   Wed Oct 27 18:22:16 2021 +0200
+
+    Updated newFile
+
+commit 8eda72e61a2bf0d79ccf0dd422abc1a23006ea7d
+Merge: 4503958 b414a35
+Author: Ela <okonska.elzbieta@gmail.com>
+Date:   Wed Oct 27 17:48:57 2021 +0200
+
+    it is necessary because i want so
+
+commit b414a355cdad6b3ae589ad9b117c793bc12033db
+Author: elazala <79118812+elazala@users.noreply.github.com>
+Date:   Wed Oct 27 17:35:50 2021 +0200
+
+    Create newFile
+
+commit 4503958cfa76e66922d5256f165dcee068d45d20
+Author: Ela <okonska.elzbieta@gmail.com>
+Date:   Wed Oct 27 17:33:54 2021 +0200
+
+    My very first commit
