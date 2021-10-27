@@ -1,1 +1,18 @@
-blabalbla
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1445    1444    1445       5244  pty0      197609 17:32:16 /usr/bin/bash
+     1444       1    1444      16820  ?         197609 17:32:16 /usr/bin/mintty
+     1708    1445    1708      16672  pty0      197609 18:19:30 /usr/bin/ps
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1445    1444    1445       5244  pty0      197609 17:32:16 /usr/bin/bash
+     1720    1445    1720      17836  pty0      197609 18:19:47 /usr/bin/ps
+     1444       1    1444      16820  ?         197609 17:32:16 /usr/bin/mintty
+ M newFile
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   newFile
+
+no changes added to commit (use "git add" and/or "git commit -a")
